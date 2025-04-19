@@ -24,7 +24,7 @@ A simple Android app written in Kotlin that demonstrates:
 ## 📸 Screenshots
 
 | Date Picker | Time Picker | Selected Date & Time | Phone Toast |
-|:-----------:|:-----------:|:-----------:|:-----------:|
+|:-----------:|:-----------:|:--------------------:|:-----------:|
 | ![Image](https://github.com/user-attachments/assets/54931013-8ec0-4c86-b764-a5d55e9a10cd) | ![Image](https://github.com/user-attachments/assets/c2a913bf-1fdb-4fbb-a42d-3a4e8bb7c069) | ![Image](https://github.com/user-attachments/assets/9d2a20f5-901a-49c9-8693-791cc6aef1a3) | ![Image](https://github.com/user-attachments/assets/8c1f992b-fd19-43f4-96f7-7ccdf0faefee) |
 
 
